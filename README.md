@@ -73,7 +73,7 @@ http://127.0.0.1:5000/
 
 ## Screenshots
 
-<img src="Screenshot.png"></img>
+<img src="screenshot.png"></img>
 
 ## License
 
