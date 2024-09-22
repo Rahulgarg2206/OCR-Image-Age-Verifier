@@ -71,6 +71,10 @@ http://127.0.0.1:5000/
 - Calculate the user's age.
 - Redirect the user based on whether they are 18 or older.
 
+## Screenshots
+
+<img src="Screenshot.png"></img>
+
 ## License
 
 This project is licensed under the MIT License.
